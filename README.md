@@ -25,7 +25,7 @@ This project focuses on analyzing flight delays using advanced statistical and m
 - **SHAP Plots**: Highlights key features driving delay predictions.
 - **Cluster Analysis**: Visualizes delay severity using K-Means.
 
-- ## Results
+## Results
 - Key delay drivers identified: carrier delays and late aircraft delays.
 - Random Forest achieved an accuracy of 99.98% for predicting delays.
 - Actionable insights provided for minimizing delay impacts.
