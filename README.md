@@ -1,5 +1,5 @@
 ## Overview
-This project focuses on analyzing flight delays using advanced statistical and machine learning models. The goal is to uncover patterns, predict delays, and identify key contributing factors such as carrier inefficiencies, weather, and seasonal trends. By leveraging datasets from 2024 and 2018, actionable insights are provided to enhance operational efficiency and reduce disruptions in airline operations.
+This project focuses on analyzing flight delays using advanced statistical and machine learning models. The goal is to uncover patterns, predict delays, and identify key contributing factors such as carrier inefficiencies, weather, and seasonal trends. By leveraging dataset from 2024, actionable insights are provided to enhance operational efficiency and reduce disruptions in airline operations.
 
 ## Key Features
 - Exploratory data analysis to uncover seasonal and airport traffic trends.
